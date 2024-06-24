@@ -1,4 +1,3 @@
-pip install google-generativeai
 import streamlit as st
 import os
 import google.generativeai as genai
