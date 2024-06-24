@@ -2,8 +2,8 @@ import streamlit as st
 import os
 import google.generativeai as genai
 
-st.set_page_config(page_title="Chatbot")
-st.title("Hi! Let's chat")
+st.set_page_config(page_title="Droid")
+st.title("Hi, Droid here :robot_face:")
 
 google_api_key = st.sidebar.text_input('Google API Key', type='password')
 
