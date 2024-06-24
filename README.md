@@ -1,6 +1,7 @@
 # Droid
 
 Droid is a chatbot developed using Google Gemini API. We can use Droid to generate, translate, summarize, question answering, content create and code generation.
+Demo - https://droid-bot.streamlit.app
 
 # Requirements
 - Gemini API key
